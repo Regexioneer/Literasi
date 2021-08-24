@@ -1,0 +1,37 @@
+.bar {
+    background-color: #6EA8C9;
+    text-align: center;
+    color: #1A4975;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 40px;
+    letter-spacing: 18px;
+}
+
+.text {
+    margin: 20px 20px 0px 20px;
+    background-color: lightblue;
+}
+
+.text p {
+    margin: 0px;
+}
+
+.container {
+    padding : 10px 20px 20px 20px;
+    background-color: lightblue;
+}
+
+.container2 {
+    padding : 10px;
+    background-color: lightgray;
+}
+
+.book {
+    padding: 5px;
+    background-color: lightgreen;
+}
+
+.font h4{
+    font-size: 12px;
+}

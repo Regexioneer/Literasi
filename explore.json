@@ -1,0 +1,196 @@
+[
+    {
+     "Fiksi": [
+      {
+       "image_url": "https://i.ibb.co/ZW9TCL2/arsenelupin.jpg",
+       "title": "Arsene Lupin",
+       "author": "Maurice Leblanc"
+      },
+      {
+       "image_url": "https://i.ibb.co/ryv24vg/harepota.jpg",
+       "title": "Hare Pota",
+       "author": "J.K Rowling"
+      },
+      {
+       "image_url": "https://i.ibb.co/HxF542r/theking.jpg",
+       "title": "The King of Drugs",
+       "author": "Nona Barret"
+      },
+      {
+          "image_url": "https://i.ibb.co/g677q6Z/percyjek1.jpg",
+          "title": "Percy Jackson: The..",
+          "author": "Rick Jordan"
+        },
+        {
+            "image_url": "https://i.ibb.co/ryv24vg/harepota.jpg",
+            "title": "Hare Pota",
+            "author": "J.K Rowling"
+        },
+        {
+         "image_url": "https://i.ibb.co/HxF542r/theking.jpg",
+         "title": "The King of Drugs",
+         "author": "Nona Barret"
+        }
+     ],
+     "Horror": [
+      {
+       "image_url": "https://i.ibb.co/JnDJ6Td/danur.jpg",
+       "title": "Danur",
+       "author": "Risa Saraswati"
+      },
+      {
+       "image_url": "https://i.ibb.co/BBftkYK/horrrostori.jpg",
+       "title": "Horror Stories",
+       "author": "Tunku Halim"
+      },
+      {
+       "image_url": "https://i.ibb.co/qYByjnj/ritual.jpg",
+       "title": "Ritual",
+       "author": "Guntur Alam"
+      },
+      {
+       "image_url": "https://i.ibb.co/w6wLb03/dendamarwah.jpg",
+       "title": "Dendam Arwah",
+       "author": "Guntur Alam"
+      },
+      {
+       "image_url": "https://i.ibb.co/BBftkYK/horrrostori.jpg",
+       "title": "Horror Stories",
+       "author": "Tunku Halim"
+      },
+      {
+        "image_url": "https://i.ibb.co/BBftkYK/horrrostori.jpg",
+        "title": "Horror Stories",
+        "author": "Tunku Halim"
+      }
+     ],
+     "Ilmiah": [
+      {
+       "image_url": "https://i.ibb.co/0mvPxVD/tesis.jpg",
+       "title": "Menulis Tesis",
+       "author": "Umberto Eco"
+      },
+      {
+       "image_url": "https://i.ibb.co/0nn29pr/ilkom.jpg",
+       "title": "Ilmu Komunikasi",
+       "author": "Nurudin"
+      },
+      {
+       "image_url": "https://i.ibb.co/sqtCznZ/kihajar.jpg",
+       "title": "Ki Hajar Dewantara",
+       "author": "Syaiful H"
+      },
+      {
+       "image_url": "https://i.ibb.co/qx03G5M/karyailmiah.jpg",
+       "title": "Karya Ilmiah",
+       "author": "Suhandi"
+      },
+      {
+        "image_url": "https://i.ibb.co/0nn29pr/ilkom.jpg",
+        "title": "Ilmu Komunikasi",
+        "author": "Nurudin"
+      },
+      {
+       "image_url": "https://i.ibb.co/0nn29pr/ilkom.jpg",
+       "title": "Ilmu Komunikasi",
+       "author": "Nurudin"
+      }
+     ],
+     "Bisnis": [
+      {
+       "image_url": "https://i.ibb.co/VjHcgPP/itsmystartup.jpg",
+       "title": "It's My Startup",
+       "author": "Lahandi B"
+      },
+      {
+       "image_url": "https://i.ibb.co/s37FTvL/bisnis1.jpg",
+       "title": "Business Plan",
+       "author": "Gema Wibawa"
+      },
+      {
+       "image_url": "https://i.ibb.co/yqLbN8N/bisnis2.jpg",
+       "title": "Business Plan",
+       "author": "Muchtar A.F"
+      },
+      {
+       "image_url": "https://i.ibb.co/wKnPzSm/bisnis3.jpg",
+       "title": "Business Plan",
+       "author": "Yudi Pramudiana"
+      },
+      {
+        "image_url": "https://i.ibb.co/s37FTvL/bisnis1.jpg",
+        "title": "Business Plan",
+        "author": "Gema Wibawa"
+      },
+      {
+       "image_url": "https://i.ibb.co/s37FTvL/bisnis1.jpg",
+       "title": "Business Plan",
+       "author": "Gema Wibawa"
+      }
+     ],
+     "Fantasi": [
+      {
+       "image_url": "https://i.ibb.co/Bj1TvLn/LOTR1.jpg",
+       "title": "Lord of The Rings: The Return of The King",
+       "author": "J.R.R Tolkien"
+      },
+      {
+       "image_url": "https://i.ibb.co/dLzL3VR/LOTR2.jpg",
+       "title": "Lord of The Rings: The Two Towers",
+       "author": "J.R.R Tolkien"
+      },
+      {
+       "image_url": "https://i.ibb.co/jr0L2L9/fantabis.jpg",
+       "title": "Fantastic Beast",
+       "author": "J.K Rowling"
+      },
+      {
+       "image_url": "https://i.ibb.co/xCFPJp0/percyjek2.jpg",
+       "title": "Percy Jackson: The Sea Monster",
+       "author": "Rick Jordan"
+      },
+      {
+        "image_url": "https://i.ibb.co/dLzL3VR/LOTR2.jpg",
+        "title": "Lord of The Rings: The Two Towers",
+        "author": "J.R.R Tolkien"
+      },
+      {
+       "image_url": "https://i.ibb.co/dLzL3VR/LOTR2.jpg",
+       "title": "Lord of The Rings: The Two Towers",
+       "author": "J.R.R Tolkien"
+      }
+     ],
+     "Komedi": [
+      {
+       "image_url": "https://i.ibb.co/dpgGVM2/skripsick.jpg",
+       "title": "Skripsick",
+       "author": "Chara Perdana"
+      },
+      {
+       "image_url": "https://i.ibb.co/nCPwR6Q/Warkop-dki.jpg",
+       "title": "Warkop-DKI Reborn",
+       "author": "Dono-Kasino-Indro"
+      },
+      {
+       "image_url": "https://i.ibb.co/WzVHhpr/Ngenest-1.jpg",
+       "title": "Ngenest-1",
+       "author": "Ernest Prakasa"
+      },
+      {
+       "image_url": "https://i.ibb.co/yy4Nsvt/Ngenest-2.jpg",
+       "title": "Ngenest-2",
+       "author": "Ernest Prakasa"
+      },
+      {
+        "image_url": "https://i.ibb.co/nCPwR6Q/Warkop-dki.jpg",
+        "title": "Warkop-DKI Reborn",
+        "author": "Dono-Kasino-Indro"
+      },
+      {
+       "image_url": "https://i.ibb.co/b2gqR4q/Ngenest-3.jpg",
+       "title": "Ngenest-3",
+       "author": "Ernest Prakasa"
+      }
+     ]
+    }
+   ]

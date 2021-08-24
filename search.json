@@ -1,0 +1,44 @@
+{
+    "Search": [
+        {
+            "image_url": "https://i.ibb.co/Bj1TvLn/LOTR1.jpg",
+            "title": "Lord of The Rings: The Return of The King",
+            "author": "J.R.R Tolkien"
+        },
+        {
+            "image_url": "https://i.ibb.co/Sf5xPhp/LOC.jpg",
+            "title": "Lord of Chaos",
+            "author": "Robert Jordan"
+        },
+        {
+            "image_url": "https://i.ibb.co/dLzL3VR/LOTR2.jpg",
+            "title": "Lord of The Rings: The Two Towers",
+            "author": "J.R.R Tolkien"
+        },
+        {
+            "image_url": "https://i.ibb.co/hFWKPCJ/TTL.jpg",
+            "title": "The Thief Lord",
+            "author": "Cornelia Funke"
+        },
+        {
+            "image_url": "https://i.ibb.co/tsHdfDv/Darklord1.jpg",
+            "title": "Dark Lord: School's Out",
+            "author": "Dirk Llyod"
+        },
+        {
+            "image_url": "https://i.ibb.co/B2JmSPK/Darklord2.jpg",
+            "title": "Dark Lord: A Friend in Need",
+            "author": "Jamie Thomson"
+        },
+        {
+            "image_url": "https://i.ibb.co/d6SgHQZ/Darklord3.jpg",
+            "title": "The Darkest Lord",
+            "author": "Jack Heckel"
+        },
+        {
+            "image_url": "https://i.ibb.co/wJty7zP/dering.jpg",
+            "title": "The Ring",
+            "author": "Florence Osmund"
+        }
+    ]
+}

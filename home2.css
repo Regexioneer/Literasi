@@ -1,0 +1,44 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #FAFAF7;
+}
+
+
+.bar {
+    background-color: #6EA8C9;
+    text-align: center;
+    color: #1A4975;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 40px;
+    letter-spacing: 18px;
+}
+
+/* .bar a {
+    padding-left: 90px;
+    padding-right: 10px;
+} */
+
+.karosel {
+    /* background-color: red; */
+}
+
+.book {
+    margin: 20px;
+}
+
+.book h4 {
+    margin: 2px;
+}
+
+.book p {
+    margin: 2px;
+}
+
+.book-container {
+    background-color: blue;
+}
+
+.book-card {
+    background-color: blueviolet;
+}

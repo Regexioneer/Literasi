@@ -1,0 +1,137 @@
+{
+    "Lanjutkan Baca": [
+        {
+            "image_url": "https://i.ibb.co/VQxsm5C/desgin.jpg",
+            "title": "BC Design Formula",
+            "author": "Anita Nipane"
+        },
+        {
+            "image_url": "https://i.ibb.co/G9YwjMX/ubur2.jpg",
+            "title": "Ubur-ubur Lembur",
+            "author": "Raditya Dika"
+        },
+        {
+            "image_url": "https://i.ibb.co/qdbpsyj/sherlock.jpg",
+            "title": "Sherlock Holmes",
+            "author": "Sir Arthur Conan Doyle"
+        },
+        {
+            "image_url": "https://i.ibb.co/ThgVBJ2/star.jpg",
+            "title": "The Star and I",
+            "author": "Ilana Tan"
+        },
+        {
+            "image_url": "https://i.ibb.co/G9YwjMX/ubur2.jpg",
+            "title": "Ubur-ubur Lembur",
+            "author": "Raditya Dika"
+        }
+    ],
+    "Rekomendasi untuk hari ini": [
+        {
+            "image_url": "https://i.ibb.co/S387zkz/septictank.jpg",
+            "title": "SepticTank",
+            "author": "Pandji Pragiwaksono"
+        },
+        {
+            "image_url": "https://i.ibb.co/MPwBd2f/rosie.jpg",
+            "title": "Rossie Wilkins",
+            "author": "Hannah Morales"
+        },
+        {
+            "image_url": "https://i.ibb.co/tMyxFVP/stamped.jpg",
+            "title": "Stamped",
+            "author": "Jason Reynolds"
+        },
+        {
+            "image_url": "https://i.ibb.co/sPHcyp5/mantappu.jpg",
+            "title": "Mantappu Jiwa",
+            "author": "Jerome Polin"
+        },
+        {
+            "image_url": "https://i.ibb.co/MPwBd2f/rosie.jpg",
+            "title": "Rossie Wilkins",
+            "author": "Hannah Morales"
+        }
+    ],
+    "Populer minggu ini": [
+        {
+            "image_url": "https://i.ibb.co/zHm4YDC/webdev.jpg",
+            "title": "Web Development",
+            "author": "White Belt"
+        },
+        {
+            "image_url": "https://i.ibb.co/p1qbCBR/memory.jpg",
+            "title": "Memory",
+            "author": "Angelino Linto"
+        },
+        {
+            "image_url": "https://i.ibb.co/VVvvL51/shreda.jpg",
+            "title": "Setelah Hujan Reda",
+            "author": "Boy Chandra"
+        },
+        {
+            "image_url": "https://i.ibb.co/BBDR8c7/longwd.jpg",
+            "title": "Long Way Down",
+            "author": "Jason Reynolds"
+        },
+        {
+            "image_url": "https://i.ibb.co/p1qbCBR/memory.jpg",
+            "title": "Memory",
+            "author": "Angelino Linto"
+        }
+    ],
+    "Baru rilis": [
+        {
+            "image_url": "https://i.ibb.co/p2JhvnW/rapijali.jpg",
+            "title": "Rapijali",
+            "author": "Dee Lestari"
+        },
+        {
+            "image_url": "https://i.ibb.co/gSbfddZ/pp.jpg",
+            "title": "Pulang-pergi",
+            "author": "Tere Liye"
+        },
+        {
+            "image_url": "https://i.ibb.co/SBXVcN9/selamattinggal.jpg",
+            "title": "Selamat Tinggal",
+            "author": "Tere Liye"
+        },
+        {
+            "image_url": "https://i.ibb.co/0cSwkL0/wingit.jpg",
+            "title": "Wingit",
+            "author": "Sara Wijiyanto"
+        },
+        {
+            "image_url": "https://i.ibb.co/gSbfddZ/pp.jpg",
+            "title": "Pulang-pergi",
+            "author": "Tere Liye"
+        }
+    ],
+    "Terbaik abad ini": [
+        {
+            "image_url": "https://i.ibb.co/tzh740T/sejarah-teh.jpg",
+            "title": "Sejarah Teh",
+            "author": "Laura C. Martin"
+        },
+        {
+            "image_url": "https://i.ibb.co/qYGM2kS/sejarah-umat.jpg",
+            "title": "Sejarah Umat Manusia",
+            "author": "Hendrik W"
+        },
+        {
+            "image_url": "https://i.ibb.co/z56KWty/timeline.jpg",
+            "title": "Timelines of Everything",
+            "author": "Smithsonian"
+        },
+        {
+            "image_url": "https://i.ibb.co/vwLWmTg/homo-deus.jpg",
+            "title": "Homo Deus",
+            "author": "Yuvai Noah"
+        },
+        {
+            "image_url": "https://i.ibb.co/qYGM2kS/sejarah-umat.jpg",
+            "title": "Sejarah Umat Manusia",
+            "author": "Hendrik W"
+        }
+    ]
+}
